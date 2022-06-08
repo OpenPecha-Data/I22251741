@@ -1,10 +1,10 @@
-|P004565|དཔལ་ལྡན་འབྲུག་པ་དཀར་བརྒྱུད་པའི་གཞི་ལམ་འབྲས་གསུམ་གྱི་རྣམ་གཞག་མདོར་བསྡུས། 
+|I22251741|དཔལ་ལྡན་འབྲུག་པ་དཀར་བརྒྱུད་པའི་གཞི་ལམ་འབྲས་གསུམ་གྱི་རྣམ་གཞག་མདོར་བསྡུས། 
 | --- | --- 
 |Alternative Title |རྒྱལ་བསྟན་རིན་པོ་ཆེའི་ཤིང་རྟ་ཆེན་པོ་དཔལ་ལྡན་མར་མི་དྭགས་པོའི་རིང་ལུགས་དཔལ་ལྡན་འབྲུག་པ་དཀར་བརྒྱུད་པའི་གཞི་ལམ་འབྲས་གསུམ་གྱི་རྣམ་གཞག་མདོར་བསྡུས་ལེགས་བཤད་ལྷ་ཡི་རྔ་དབྱངས།
 |Author| འབྲུག་པ་གདུང་སྲས་མི་ཕམ་བཤད་སྒྲུབ་ཆོས་ཀྱི་ཉིན་བྱེད།
 |BDRC ID | W23683
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P004565)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P004565/releases/download/v1/palden_drukpa_ka_ra_gyupa_i_sh_plain_P004565.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P004565/releases/download/v1/palden_drukpa_ka_ra_gyupa_i_sh_pages_P004565.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/I22251741)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/I22251741/releases/download/v1/palden_drukpa_ka_ra_gyupa_i_sh_plain_I22251741.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/I22251741/releases/download/v1/palden_drukpa_ka_ra_gyupa_i_sh_pages_I22251741.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W23683)
